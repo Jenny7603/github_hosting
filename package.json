@@ -1,0 +1,9 @@
+{
+  "name": "study-git",
+  "version": "1.0.1",
+  "description": "Git 워크플로우",
+  "scripts": {
+  },
+  "keywords": ["Git","Workflow"],
+  "author": "hyejin2351"
+}
